@@ -1,0 +1,31 @@
+
+ul{
+    position: fixed;
+}
+li{
+    float: left;
+    list-style-type: none;
+}
+
+a{
+    padding: 10px;
+}
+
+.divisions{
+  height: 100vh;
+  padding-top: 20vh;
+}
+
+body{
+    background:pink;
+}
+
+a:hover{
+    background-color: white;
+}
+
+.panel{
+    width: 1200px;
+    height:100px;
+    background: yellow;
+}
